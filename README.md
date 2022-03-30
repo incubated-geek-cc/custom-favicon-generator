@@ -3,12 +3,12 @@
 <br/>![cover image](img/cover.png)
 
 ### 1. Upload an Image File (PNG, JPG, GIF)
-<br/>![Step 1](img/1.png)
+<br/><img src="img/1.png" height="250" alt="Step 1" />
 ---
 ### 2. Specify Icon Dimensions
-<br/>![Step 2](img/2.png)
+<br/><img src="img/2.png" height="250" alt="Step 2" />
 ---
 ### 3. Generated favicon.ico(s)
-<br/>![Step 3](img/3.png)
+<br/><img src="img/3.png" height="250" alt="Step 3" />
 
-## Based on Original Plugin by: <a href="https://png2icojs.com/" target="_blank">PNG to ICO Icon Format</a>
+## Based on Original Plugin at 🔗<a href="https://png2icojs.com/" target="_blank">PNG to ICO Icon Format</a>
