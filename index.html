@@ -319,7 +319,7 @@
 
             function copyTextToClipboard(inputEleId) {
                let copyTextEle = document.getElementById(inputEleId);
-               navigator.clipboard.writeText(copyTextEle.textContent);
+               navigator.clipboard.writeText(copyTextEle.innerText);
             }
 
             var faviconHTMLCodeSnippet=document.getElementById('faviconHTMLCodeSnippet');
